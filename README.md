@@ -2,7 +2,7 @@ Olá, sou a Flavia P.Fonseca
 
     🔭 Hoje Trabalho com Analista de Desenvolvimento( Trabalho com várias linguagens)
     📚👩🏼‍💻 Faço tecnólogo de Analise e Desenvolvimento de Sistemas
-    🚀 Meta: desenvolvedora Front-end 100%
+    🚀 Meta: desenvolvedora web 100%
     🌱 Estudando para virar Fullstak(conhecimento não ocupa espaço!)
   
  <div style="display: inline_block"><br>
