@@ -13,4 +13,4 @@ Olá, sou a Flavia P.Fonseca
 
 </div>
 &nbsp; 
- <p> <a href="www.linkedin.com/in/flavia-p-fonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+ <p> <a href="www.linkedin.com/in/flavia-p-fonsecas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
